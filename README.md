@@ -38,3 +38,16 @@ Apoyamos a los desarrolladores independientes, pero también entendemos que el a
 ## 💌 Hecho con amor
 
 Por alguien que solo quiere ayudar a otros a decir *TE AMO* de una forma diferente.  
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia Creative Commons Atribución-NoComercial 4.0 Internacional.  
+Puedes compartir y modificar este código para fines personales o educativos, siempre que me des crédito como autor y no lo utilices con fines comerciales.
+
+Lee los términos completos en el archivo [`LICENSE`](./LICENSE) o en [creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/).
+
+---
+
+🔸 Este trabajo fue creado desde cero, inspirado visualmente en un video de internet.  
+🔸 No contiene ningún archivo ni fragmento del código original de pago.
+
