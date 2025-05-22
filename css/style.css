@@ -1,0 +1,43 @@
+    @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+    
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: black;
+      height: 100%;
+      width: 100%;
+      font-family: 'Tilt Neon', cursive;
+    }
+
+    body {
+     background: url('https://p4.wallpaperbetter.com/wallpaper/887/244/50/the-inscription-black-heart-figure-wallpaper-preview.jpg') no-repeat center center fixed;
+     background-size: cover;
+    }
+
+    canvas {
+      display: block;
+    }
+
+    .explosion {
+      position: absolute;
+      color: #ff69b4;
+      font-size: 24px;
+      animation: explode 1s ease-out forwards;
+      pointer-events: none;
+      user-select: none;
+      text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff69b4;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+
+    @keyframes explode {
+      0% {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+      }
+      100% {
+        opacity: 0;
+        transform: scale(1.5) translateY(-100px);
+      }
+    }
+  
